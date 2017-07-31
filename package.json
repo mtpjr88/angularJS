@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mtpjr88/angularJS/issues"
   },
-  "homepage": "https://github.com/mtpjr88/angularJS#readme"
+  "homepage": "https://github.com/mtpjr88/angularJS#readme",
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
 }
